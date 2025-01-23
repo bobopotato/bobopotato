@@ -2,15 +2,15 @@
 
 An enthusiastic full stack developer with a keen interest in exploring new technologies and continuously enhancing my skills. I am driven by a passion for creating efficient, scalable, and user-friendly applications that make a positive impact.
 
+<a href="https://bobopotato.github.io/cshong/" target="_blank">Here is my first portfolio long time ago~</a>
+
 ## 📜 Tech Knowledge
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,vuejs,gcp,aws,react,next,firebase,postgres,html,css,tailwind,git&perline=7)](https://skillicons.dev)
 
 ## 🌱 I’m currently learning
 
-- NextJs
-- Monorepos
-- AWS
+[![My Skills](https://skillicons.dev/icons?i=nextjs,aws,postgres&perline=5)](https://skillicons.dev)
 
 ## 🔭 I’m currently working on
 
