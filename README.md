@@ -20,74 +20,13 @@ A full-stack application that automates the whole process of collecting job post
 
 ## 📫 How to reach me:
 
-<p align="left" dir="auto">
-  <a href="https://www.github.com/wng97">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
-      <picture>
-        <source
-          media="(prefers-color-scheme: light),(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-          class="source-dark"
-        />
-        <source
-          media="not all"
-          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-          class="source-light"
-        />
-        <img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-          width="32"
-          height="32"
-          style="visibility: visible; max-width: 100%;"
-        />
-      </picture>
-    </themed-picture>
-  </a>
-  <a href="https://www.linkedin.com/in/chong-soon-hong-2b54171b9/" rel="nofollow">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
-      <picture>
-        <source
-          media="(prefers-color-scheme: light),(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"
-          class="source-dark"
-        />
-        <source
-          media="not all"
-          srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-          class="source-light"
-        />
-        <img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-          width="32"
-          height="32"
-          style="visibility: visible; max-width: 100%;"
-        />
-      </picture>
-    </themed-picture>
-  </a>
-  <a href="https://wa.link/y73u5j" rel="nofollow">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
-      <picture>
-        <source
-          media="(prefers-color-scheme: light),(prefers-color-scheme: dark)"
-          srcset="./whatsapp.svg"
-          class="source-light"
-        />
-        <source
-          media="not all"
-          srcset="./whatsapp.svg"
-          class="source-light"
-        />
-        <img
-          src="./whatsapp.svg"
-          width="32"
-          height="32"
-          style="visibility: visible; max-width: 100%;"
-        />
-      </picture>
-    </themed-picture>
-  </a>
-</p>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons/src/app/ci.min.css"
+/>
+<a href="https://www.github.com/bobopotato" target="_blank"><i class="ci ci-github-light" style="margin-right: 10px; width:42px; height:42px"></i></a>
+<a href="https://www.linkedin.com/in/chong-soon-hong-2b54171b9/" target="_blank"><i class="ci ci-linkedin" style="margin-right: 5px; width:48px; height:48px; translate: 0 5px;"></i></a>
+<a href="https://wa.link/y73u5j" target="_blank"><i class="ci ci-whatsapp" style="margin-right: 10px; width:40px; height:40px"></i></a>
 
 <!--
 **bobopotato/bobopotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
