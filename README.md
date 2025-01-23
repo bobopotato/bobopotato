@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="styles.css" />
-
 ## 🤖 Who Am I
 
 An enthusiastic full stack developer with a keen interest in exploring new technologies and continuously enhancing my skills. I am driven by a passion for creating efficient, scalable, and user-friendly applications that make a positive impact.
@@ -22,9 +20,15 @@ A full-stack application that automates the whole process of collecting job post
 
 ## 📫 How to reach me:
 
-<a href="https://www.github.com/bobopotato" target="_blank"><i class="ci ci-github-light" style="margin-right: 10px; width:42px; height:42px"></i></a>
-<a href="https://www.linkedin.com/in/chong-soon-hong-2b54171b9/" target="_blank"><i class="ci ci-linkedin" style="margin-right: 5px; width:48px; height:48px; translate: 0 5px;"></i></a>
-<a href="https://wa.link/y73u5j" target="_blank"><i class="ci ci-whatsapp" style="margin-right: 10px; width:40px; height:40px"></i></a>
+<a href="https://www.github.com/bobopotato" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" />
+</a>
+<a href="https://www.linkedin.com/in/chong-soon-hong-2b54171b9/" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" />
+</a>
+<a href="https://wa.link/y73u5j" target="_blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/whatsapp.svg" />
+</a>
 
 <!--
 **bobopotato/bobopotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
